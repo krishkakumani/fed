@@ -1,4 +1,3 @@
----
 # install jdk and httpd
 - hosts: all
   become: yes
