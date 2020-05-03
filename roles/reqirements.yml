@@ -1,0 +1,7 @@
+- src: git+https://github.com/krishkakumani/linux-install-jdk.git
+  version: master
+  scm: git
+
+- src: git+https://github.com/krishkakumani/linux-install-httpd.git
+  version: master
+  scm: git
