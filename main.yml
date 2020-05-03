@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 ---
 # linux install jdk and httpd
-=======
-# install jdk and httpd
->>>>>>> 13bd5e33342ba64c1da8a415d2d56437df8f7eb5
+
 - hosts: all
   gather_facts: true
   become: true
